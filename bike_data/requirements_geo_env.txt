@@ -1,0 +1,104 @@
+affine==2.3.0
+attrs==19.3.0
+backcall==0.2.0
+bleach==3.1.5
+branca==0.4.1
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+click==7.1.2
+click-plugins==1.1.1
+cligj==0.5.0
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1588164361239/work
+colorama==0.4.3
+cryptography==2.9.2
+cycler==0.10.0
+cytoolz==0.10.1
+dask @ file:///home/conda/feedstock_root/build_artifacts/dask-core_1592593303100/work
+decorator==4.4.2
+defusedxml==0.6.0
+descartes==1.1.0
+earthpy @ file:///home/conda/feedstock_root/build_artifacts/earthpy_1592579821941/work
+entrypoints==0.3
+Fiona==1.8.13
+folium==0.11.0
+GDAL==3.0.4
+geojson==2.5.0
+geopandas @ git+git://github.com/geopandas/geopandas.git@b78ef4eeccff5a68ddf7219d16ccd373d4863b12
+gmaps==0.9.0
+idna==2.9
+imagecodecs @ file:///D:/bld/imagecodecs_1591488113107/work
+imageio==2.8.0
+importlib-metadata==1.6.1
+ipykernel @ file:///C:/ci/ipykernel_1592405451716/work/dist/ipykernel-5.3.0-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1592348478909/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jedi==0.17.0
+Jinja2==2.11.2
+jsonschema==3.2.0
+jupyter-client==6.1.3
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib==3.2.2
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+munch==2.5.0
+nbconvert==5.6.1
+nbformat==5.0.7
+networkx==2.4
+notebook==6.0.3
+numpy==1.18.1
+olefile==0.46
+packaging==20.4
+pandas==1.0.4
+pandocfilters==1.4.2
+parso==0.7.0
+pickleshare==0.7.5
+Pillow==7.1.2
+prometheus-client==0.8.0
+prompt-toolkit==3.0.5
+pycparser==2.20
+Pygments==2.6.1
+pyOpenSSL==19.1.0
+pyparsing==2.4.7
+pyproj @ file:///D:/bld/pyproj_1588596180607/work
+PyQt5==5.12.3
+PyQt5-sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+pyrsistent==0.16.0
+PySocks==1.7.1
+python-dateutil==2.8.1
+pytz==2020.1
+PyWavelets==1.1.1
+pywin32==227
+pywinpty==0.5.7
+PyYAML==5.3.1
+pyzmq==18.1.1
+rasterio==1.1.5
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+Rtree==0.9.4
+scikit-image==0.17.2
+scipy==1.4.1
+Send2Trash==1.5.0
+Shapely==1.7.0
+six==1.15.0
+snuggs==1.4.7
+terminado==0.8.3
+testpath==0.4.4
+tifffile @ file:///home/conda/feedstock_root/build_artifacts/tifffile_1591655158331/work
+toolz==0.10.0
+tornado==6.0.4
+traitlets==4.3.3
+urllib3==1.25.9
+wcwidth==0.2.4
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+win-inet-pton==1.1.0
+wincertstore==0.2
+zipp==3.1.0
